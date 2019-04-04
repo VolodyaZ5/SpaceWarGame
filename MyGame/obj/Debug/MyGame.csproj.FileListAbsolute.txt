@@ -1,0 +1,45 @@
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_1\Practice\NewGame\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_2\По методичке\MyGame\MyGame\obj\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.pdb

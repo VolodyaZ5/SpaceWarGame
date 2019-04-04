@@ -1,0 +1,18 @@
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.exe.config
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\bin\Debug\MyGame.pdb
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\SpaceWar.csprojResolveAssemblyReference.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.exe
+D:\!_Programming on the C#\GeekBrains\Методичка\Chapter2\2_3\MyGame\MyGame\obj\Debug\MyGame.pdb
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\bin\Debug\MyGame.exe.config
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\bin\Debug\MyGame.exe
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\bin\Debug\MyGame.pdb
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\SpaceWar.csprojAssemblyReference.cache
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\SpaceWar.csproj.GenerateResource.cache
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\SpaceWar.csproj.CoreCompileInputs.cache
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\MyGame.exe
+\\mail2016\компьютер owl\Root\!!_ВЛАДиМИР\Books\GeekBrains\MyGame\MyGame\obj\Debug\MyGame.pdb
